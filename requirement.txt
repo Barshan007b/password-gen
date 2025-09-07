@@ -1,0 +1,4 @@
+# Requirements for Password Generator
+# All modules used are from Python Standard Library.
+# No external packages required.
+
